@@ -2,14 +2,14 @@
 Yep, I still need to finish learning these languages, lol... I might as well do this in public... to shame myself. xD!
 
 ## README Table of Contents
-1) [The Books (and resources) I am Using]()
-  1a) [Books]()
-  1b) [Websites]()
-2) [Chapter Layouts for the Books]()
-  2a) [HTML5 and CSS3 All In One For Dummies]()
-  2b) [Coding with JavaScript For Dummies]()
-  2c) [Building Websites All In One For Dummies]()
-3) [Used Website Pages]()
+1. [The Books (and resources) I am Using]()
+  - [Books]()
+  - [Websites]()
+2. [Chapter Layouts for the Books]()
+  - [HTML5 and CSS3 All In One For Dummies]()
+  - [Coding with JavaScript For Dummies]()
+  - [Building Websites All In One For Dummies]()
+3. [Used Website Pages]()
 
 ## The Books (and resources) I am Using
 For the books, I will have the chapter layouts listed below, and have folders inside the `./docs` folder directing to each book, and chapter inside the books that I use. Keep in mind that I may not use all chapters or pages in them. For the website list - and the book list for that matter - may be updated (only added to), as the time progresses.
@@ -116,5 +116,34 @@ For the books, I will have the chapter layouts listed below, and have folders in
   - [ ] Adding video
 
 ##### Chapter 7: Creating Forms
+- [ ] You Have Great Form
+  - [ ] Forms must have some form
+- [ ] Building Text-Style Inputs
+- [ ] Making a standard text field
+- [ ] Building a password field
+  - [ ] Making multi-line text input
+- [ ] Creating Multiple Section Elements
+  - [ ] Making selections
+  - [ ] Building check boxes
+  - [ ] Creating radio buttons
+- [ ] Pressing Your Buttons
+  - [ ] Making input-style buttons
+  - [ ] Building a Submit button
+  - [ ] It's a do-over: The Reset button
+  - [ ] Introducing the `<button>` tag
+- [ ] New form input types
+  - [ ] date
+  - [ ] time
+  - [ ] datetime
+  - [ ] datetime-local
+  - [ ] week
+  - [ ] month
+  - [ ] color
+  - [ ] number
+  - [ ] range
+  - [ ] search
+  - [ ] email
+  - [ ] tel
+  - [ ] url
 
 ## Used Website Pages
