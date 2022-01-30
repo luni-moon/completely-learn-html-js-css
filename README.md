@@ -48,7 +48,7 @@ For the books, I will have the chapter layouts listed below, and have folders in
 - [x] Somebody Stop the HTML Madness!
   - [x] XHTML had some great ideas
 - [x] Validating Your Page
-  - [x] Aesop visits W3C
+  - [x] Aesop visits W3C
 - [x] Using Tidy to repair pages
 
 ##### Chapter 3: Choosing Your Tool
