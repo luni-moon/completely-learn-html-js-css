@@ -19,8 +19,8 @@ For the books, I will have the chapter layouts listed below, and have folders in
 3) *Building Websites All In One For Dummies* - **Written by: David Karlins, Doug Sahilin** - *(Again, pretty outdated)*
 
 ### Websites
-1) [W3Schools](https://w3schools.org)
-2) [StackOverflow](https://stackoverflow.com)
+1) [W3Schools](https://www.w3schools.com)
+2) [StackOverflow](https://www.stackoverflow.com)
 
 ## Chapter Layouts for the Books
 ### HTML5 and CSS3 All In One For Dummies
