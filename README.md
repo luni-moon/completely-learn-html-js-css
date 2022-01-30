@@ -3,52 +3,53 @@ Yep, I still need to finish learning these languages, lol... I might as well do 
 
 ## README Table of Contents
 1. [The Books (and resources) I am Using]()
-  - [Books]()
-  - [Websites]()
+  a. [Books]()
+  b. [Websites]()
 2. [Chapter Layouts for the Books]()
-  - [HTML5 and CSS3 All In One For Dummies]()
-  - [Coding with JavaScript For Dummies]()
-  - [Building Websites All In One For Dummies]()
+  a. [HTML5 and CSS3 All In One For Dummies]()
+  b. [Coding with JavaScript For Dummies]()
+  c. [Building Websites All In One For Dummies]()
 3. [Used Website Pages]()
 
 ## The Books (and resources) I am Using
 For the books, I will have the chapter layouts listed below, and have folders inside the `./docs` folder directing to each book, and chapter inside the books that I use. Keep in mind that I may not use all chapters or pages in them. For the website list - and the book list for that matter - may be updated (only added to), as the time progresses.
 ### Books
-1) *HTML5 and CSS3 All In One For Dummies* - **Written by: Andy Harris** - *(Yes, I know this is outdated)*
-2) *Coding with JavaScript For Dummies* - **Written by: Chris Minnick, Eva Holland** - *(Also pretty outdated)*
-3) *Building Websites All In One For Dummies* - **Written by: David Karlins, Doug Sahilin** - *(Again, pretty outdated)*
+1. *HTML5 and CSS3 All In One For Dummies* - **Written by: Andy Harris** - *(Yes, I know this is outdated)*
+2. *Coding with JavaScript For Dummies* - **Written by: Chris Minnick, Eva Holland** - *(Also pretty outdated)*
+3. *Building Websites All In One For Dummies* - **Written by: David Karlins, Doug Sahilin** - *(Again, pretty outdated)*
 
 ### Websites
-1) [W3Schools](https://www.w3schools.com)
-2) [StackOverflow](https://www.stackoverflow.com)
+1. [W3Schools](https://www.w3schools.com)
+2. [StackOverflow](https://www.stackoverflow.com)
+3. [W3 HTML Validator](http://validator.w3.org)
 
 ## Chapter Layouts for the Books
 ### HTML5 and CSS3 All In One For Dummies
 #### Introduction
-- [ ] About This Book
-- [ ] Foolish Assumptions
-- [ ] Use Any Computer
-- [ ] Don't Buy Any Software
-- [ ] How This Book Is Organized
-- [ ] New for the Third Edition
-- [ ] Icons Used in This Book
-- [ ] Beyond the Book
-- [ ] Where to Go from
+- [x] About This Book
+- [x] Foolish Assumptions
+- [x] Use Any Computer
+- [x] Don't Buy Any Software
+- [x] How This Book Is Organized
+- [x] New for the Third Edition
+- [x] Icons Used in This Book
+- [x] Beyond the Book
+- [x] Where to Go from
 
 #### Part I: Creating the HTML Foundation
 ##### Chapter 1: Sound HTML Foundations
-- [ ] Creating a Basic Page
-- [ ] Understanding the HTML in the Basic Page
-- [ ] Meeting Your New Friends, the Tags
-  - [ ] Displaying file extensions
-  - [ ] Setting up your software
+- [x] Creating a Basic Page
+- [x] Understanding the HTML in the Basic Page
+- [x] Meeting Your New Friends, the Tags
+  - [x] Displaying file extensions
+  - [x] Setting up your software
 
 ##### Chapter 2: It's All About Validation
-- [ ] Somebody Stop the HTML Madness!
-  - [ ] XHTML had some great ideas
-- [ ] Validating Your Page
-  - [ ] Aesop visits W3C
-- [ ] Using Tidy to repair pages
+- [x] Somebody Stop the HTML Madness!
+  - [x] XHTML had some great ideas
+- [x] Validating Your Page
+  - [x] Aesop visits W3C
+- [x] Using Tidy to repair pages
 
 ##### Chapter 3: Choosing Your Tool
 - [ ] What's Wrong with the Big Boys: Expression Web and Adobe Dreamweaver
