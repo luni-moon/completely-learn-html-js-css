@@ -52,31 +52,31 @@ For the books, I will have the chapter layouts listed below, and have folders in
 - [x] Using Tidy to repair pages
 
 ##### Chapter 3: Choosing Your Tool
-- [ ] What's Wrong with the Big Boys: Expression Web and Adobe Dreamweaver
-- [ ] How About Some Online Site Builders?
-- [ ] Alternative Web Development Tools
-- [ ] Picking a Text Editor
-  - [ ] Tools to avoid unless you have nothing else
-  - [ ] Suggested programmer's editors
-  - [ ] My Personal Choice: Komodo Edit
-  - [ ] Other text editors
-  - [ ] The bottom line on editors
-- [ ] Finding a Good Web Developer's Browser
-  - [ ] A little ancient history
-  - [ ] Overview of the prominent browsers
-  - [ ] Other notable browsers
-  - [ ] The bottom line on browsers
+- [x] What's Wrong with the Big Boys: Expression Web and Adobe Dreamweaver
+- [x] How About Some Online Site Builders?
+- [x] Alternative Web Development Tools
+- [x] Picking a Text Editor
+  - [x] Tools to avoid unless you have nothing else
+  - [x] Suggested programmer's editors
+  - [x] My Personal Choice: Komodo Edit
+  - [x] Other text editors
+  - [x] The bottom line on editors
+- [x] Finding a Good Web Developer's Browser
+  - [x] A little ancient history
+  - [x] Overview of the prominent browsers
+  - [x] Other notable browsers
+  - [x] The bottom line on browsers
 
 ##### Chapter 4: Managing Information with Lists and Tables
-- [ ] Making a List and Checking it Twice
-  - [ ] Creating an unordered list
-  - [ ] Creating ordered lists
-  - [ ] Making nested lists
-  - [ ] Building the definition list
-- [ ] Building Tables
-  - [ ] Defining the table
-  - [ ] Spanning rows and columns
-  - [ ] Avoiding the table-based layout trap
+- [x] Making a List and Checking it Twice
+  - [x] Creating an unordered list
+  - [x] Creating ordered lists
+  - [x] Making nested lists
+  - [x] Building the definition list
+- [x] Building Tables
+  - [x] Defining the table
+  - [x] Spanning rows and columns
+  - [x] Avoiding the table-based layout trap
 
 ##### Chapter 5: Making Connections with Links
 - [ ] Making Your Text Hyper
@@ -146,5 +146,3 @@ For the books, I will have the chapter layouts listed below, and have folders in
   - [ ] email
   - [ ] tel
   - [ ] url
-
-## Used Website Pages
