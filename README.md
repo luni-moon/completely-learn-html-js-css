@@ -3,12 +3,12 @@ Yep, I still need to finish learning these languages, lol... I might as well do 
 
 ## README Table of Contents
 1. [The Books (and resources) I am Using]()
-  a. [Books]()
-  b. [Websites]()
+  1. [Books]()
+  2. [Websites]()
 2. [Chapter Layouts for the Books]()
-  a. [HTML5 and CSS3 All In One For Dummies]()
-  b. [Coding with JavaScript For Dummies]()
-  c. [Building Websites All In One For Dummies]()
+  1. [HTML5 and CSS3 All In One For Dummies]()
+  2. [Coding with JavaScript For Dummies]()
+  3. [Building Websites All In One For Dummies]()
 3. [Used Website Pages]()
 
 ## The Books (and resources) I am Using
